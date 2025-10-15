@@ -1,3 +1,4 @@
+<!-- intentionally blank -->
 ## Hi there 👋
 <p>
 제 이름은 김규리이고 현재 명지대학교 융합소프트웨어학부 재학중입니다
